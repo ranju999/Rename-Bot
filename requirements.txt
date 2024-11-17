@@ -1,6 +1,7 @@
 pyrofork==2.3.45
 humanize
 pymongo
+pyromod
 Pillow
 hachoir
 TgCrypto
